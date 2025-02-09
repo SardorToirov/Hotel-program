@@ -22,6 +22,8 @@ display data
 
 ![image](https://github.com/user-attachments/assets/14a1e545-f9b3-4a31-84be-e800d096ce41)
 
+this project was done in python programming language
+
 
 
 
