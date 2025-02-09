@@ -1,5 +1,7 @@
 # Hotel-program
+
 Hotel project with python
+
 The first line to run the project is to run python main.py from the terminal
 
 ```python main.py```
